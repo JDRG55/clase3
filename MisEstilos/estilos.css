@@ -23,11 +23,17 @@ header{
 }
 
 #logo{
-    border: 1px solid royalblue;
+    width: 10%;
+}
+#logo_uni{
+    width: 100px;
+    height: 100px;
 }
 
 #titulo{
-    border: 1px solid royalblue;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:center
 }
 
 #logo2{
